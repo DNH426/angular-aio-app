@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('clientpanel App', () => {
+describe('angular-aio-app App', () => {
   let page: AppPage;
 
   beforeEach(() => {
